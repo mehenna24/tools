@@ -1,0 +1,22 @@
+Scope:<br>
+This standard convers the standardization of dimensions of welded and seamless wrought stainless steel pipe for high or low temperatures and pressures.
+<br>
+The word pipe is used , as distinguished from tube , to apply to tubular products of dimensions comm only used for pipeline and piping systems.
+<br> 
+<br> 
+NOTES: <br> 
+(1) These wall thicknesses do not permit threading in accordance with ASME B1.20.1 <br> 
+(2) These dimensions do not conform to ASME B36.10M .<br> 
+<br> 
+GENERAL NOTES :<br> 
+1 in = 25.4 mm <br> 
+1 lb/ft = 1.4895 kg/m <br> 
+Weights (masses) are given in pounds per linear foot (kilograms per meter) and are for carbon steel pipe with plain ends <br>
+The different grades of stainless steel permit considerable variations in weight (mass) . The ferritic stainless steels may be about 5% less , and
+the austenitic stainless steels about 2% greater, than the values shown in this Table , which are based on weights (masses) for carbon steel .
+
+
+
+
+
+

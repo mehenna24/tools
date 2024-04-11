@@ -1,0 +1,84 @@
+Group1.1;C;(1)   Prolonged use above 425°C is permissible but not recommended. Prolonged exposure above 425°C may cause the carbide phase of steel to convert  to  graphite.
+Group1.1;C;(2)   Not  to be  used over  455°C.
+Group1.1;C;(3)   Not  to be  used over  370°C.
+Group1.1;C;(4)   Not  to be  used over  260°C.
+Group1.1;C;(5)   Not  to be  used over  345°C.
+Group1.2;C;(1)   Prolonged use above 425°C is permissible but not recommended. Prolonged exposure above 425°C may cause the carbide phase of steel to convert  to  graphite.
+Group1.2;C;(2)   Not  to be  used over  340°C.
+Group1.2;C;(3)   Not  to be  used over  260°C.
+Group1.3;C;(1)   Not  to be  used over  340°C.
+Group1.3;C;(2)   Prolonged use above 425°C is permissible but not recommended. Prolonged exposure above 425°C may cause the carbide phase of steel to convert  to  graphite.
+Group1.3;C;(3)   Not  to be  used over  455°C.
+Group1.3;C;(4)   Prolonged use above 465°C is permissible but not recommended. Prolonged exposure above 465°C may cause the carbide phase of steel to convert  to  graphite.
+Group1.3;C;(5)   Use  normalized  and  tempered  material  only.
+Group1.3;C;(6)   The deliberate addition of any element not listed in ASTM A217 Table 1 is prohibited except that calcium (Ca) and manganese (Mn) may be added  for  deoxidation.
+Group1.4;C;(1)   Prolonged use above 425°C is permissible but not recommended. Prolonged exposure above 425°C may cause the carbide phase of steel to convert  to  graphite.
+Group1.4;C;(2)   Not  to be  used over  455°C.
+Group1.5;C;(1) Upon prolonged exposure to temperatures above 465°C the carbide phase of carbon-molybdenum steel may be converted to graphite. Permissible but  not  recommended for  prolonged  use  above  465°C.
+Group1.7;C;(1)   Not  to be  used over  538°C.
+Group1.7;C;(2)   Use  normalized  and  tempered  material  only.
+Group1.7;C;(3)   The deliberate addition of any element not listed in ASTM A217 Table 1 is prohibited except that calcium (Ca) and manganese (Mn) may be added  for  deoxidation.
+Group1.9;C;(1)   Use  normalized  and  tempered  material  only.
+Group1.9;C;(2)   Not  to be  used over  590°C.
+Group1.9;C;(3)   The deliberate addition of any element not listed in ASTM A217 Table 1 is prohibited except that calcium (Ca) and manganese (Mn) may be added  for  deoxidation.
+Group1.9;C;(4)   Prolonged  use  above  590°C  is permissible  but not  recommended.
+Group1.10;C;(1)   Prolonged  use  above  590°C  is permissible  but not  recommended.
+Group1.10;C;(2)   Use  normalized  and  tempered  material  only.
+Group1.10;C;(3)   Not  to be  used over  590°C.
+Group1.10;C;(4)   The deliberate addition of any element not listed in ASTM A217 Table 1 is prohibited except that calcium (Ca) and manganese (Mn) may be added  for  deoxidation.
+Group1.11;C;(1) Upon prolonged exposure to temperatures above 465°C the carbide phase of carbon-molybdenum steel may be converted to graphite. Permissible but  not  recommended for  prolonged  use  above  465°C.
+Group1.13;C;(1)   Use  normalized  and  tempered  material  only.
+Group1.13;C;(2)   The deliberate addition of any element not listed in ASTM A217 Table 1 is prohibited except that calcium (Ca) and manganese (Mn) may be added  for  deoxidation.
+Group1.14;C;(1)   Use  normalized  and  tempered  material  only.
+Group1.14;C;(2)   The deliberate addition of any element not listed in ASTM A217 Table 1 is prohibited except that calcium (Ca) and manganese (Mn) may be added  for  deoxidation.
+Group1.15;C;(1) The deliberate addition of any element not listed in ASTM A217 Table 1 is prohibited except that calcium (Ca) and manganese (Mn) may be  added  for  deoxidation.
+Group1.17;C;(1)   Use  normalized  and  tempered  material  only.
+Group1.17;C;(2)   Prolonged  use  above  590°C  is permissible  but not  recommended.
+Group1.18;C; (1)  Applications  above  620°C are  limited  to  tubing  with  maximum outside  diameter  of 89  mm.
+Group2.1;C;(1)   At  temperatures  over  538°C  use  only  when  the  carbon content  is  0.04%  or  higher.
+Group2.1;C;(2)   Not  to be  used over  425°C.
+Group2.2;C;(1)   At  temperatures  over  538°C  use  only  when  the  carbon content  is  0.04%  or  higher.
+Group2.2;C;(2)   Not  to be  used over  455°C.
+Group2.2;C;(3)   Not  to be  used over  538°C.
+Group2.3;C;(1)  Not to  be  used  over  425°C.
+Group2.4;C;(1)   Not to  be  used  over  538°C.
+Group2.4;C;(2)   At temperatures  over  538°C use  only  if  the  material  is  heat treated  to  a  minimum  temperature  of  1  095°C.
+Group2.5;C;(1)   Not to  be  used  over  538°C.
+Group2.5;C;(2)   For  temperatures  over  538°C  use  only  if  the  material is  heat  treated  by  heating  to a  minimum  temperature  of  1  095°C.
+Group2.7;C;(1)   At temperatures  over  538°C use  only  when  the  carbon content  is  0.04%  or  higher.
+Group2.7;C;(2)   Service temperatures of 565°C and above should be used only when assurance is provided that grain size is not finer than ASTM No. 6.
+Group2.8;C; (1)  This  steel may become  brittle  after  service at  moderately  elevated temperatures.  Not  to  be  used  over  315°C.
+Group2.9;C;(1)   At  temperatures  over  538°C  use  only  when  the  carbon content  is  0.04%  or  higher.
+Group2.9;C;(2)   At temperatures above 538°C use only if the material is solution heat treated to the minimum temperature specified in the specification but not  lower than  1035°C  and  quenching in  water  or  rapidly  cooling  by  other  means.
+Group2.9;C;(3)   This material should be used for service temperatures 565°C and above only when assurance is provided that grain size is not finer than ASTM No.  6.
+Group2.10;C;(1)  At temperatures  over  538°C  use  only  when  the  carbon  content  is  0.04% or  higher.
+Group2.11;C;  (1)  At temperatures  over  538°C  use  only  when  the  carbon  content  is  0.04% or  higher.
+Group2.12;C; (1)  At temperatures  over  538°C  use  only  when  the  carbon  content  is  0.04% or  higher.
+Group3.1;C;  (1)  Use  annealed  material  only.
+Group3.2;C;(1)  Use  annealed  material only.
+Group3.3;C;  (1)  Use  annealed  material  only.
+Group3.4;C;  (1)  Use  annealed  material  only.
+Group3.5;C;  (1)  Use  annealed  material only.
+Group3.6;C; (1)  Use  annealed  material only.
+Group3.7;C;  (1)  Use  solution  annealed  material  only.
+Group3.8;C;(1)   Use  solution annealed  material  only.
+Group3.8;C;(2)   Not  to be  used over  675°C.
+Group3.8;C;(3)   Use  annealed  material only.
+Group3.8;C;(4)   Not to be used over 645°C. Alloy N06625 in the annealed condition is subject to severe loss of impact strength at room temperatures after exposure  in  the  range of  538°C  to 760°C.
+Group3.8;C;(5)   Grade  1.
+Group3.8;C;(6)   Not  to be  used over  425°C.
+Group3.8;C;(7)   Not  to be  used over  538°C.
+Group3.8;C;(8)   Alloy N06022 in the solution annealed condition is subject to severe loss of impact strength at room temperature after exposure to tempera- tures  in  the  range  of 538°C  to  675°C.
+Group3.9;C;(1)   Use  solution annealed  material  only.
+Group3.9;C;(2)   The chemical composition mechanical properties heat treating requirements and grain size requirements shall conform to the applicable ASTM specification. The manufacturing procedures tolerances tests certification and markings shall be in accordance with ASTM B564.
+Group3.10;C;(1)  Use  solution annealed  material only.
+Group3.11;C;(1)   Use  annealed  material  only.
+Group3.11;C;(2)   The chemical composition mechanical properties heat treating requirements and grain size requirements shall conform to the applicable ASTM specification. The manufacturing procedures tolerances tests certification and markings shall be in accordance with ASTM B564.
+Group3.12;C;(1)  Use  solution annealed  material only.
+Group3.13;C;(1)   Use  solution annealed  material  only.
+Group3.13;C;(2)   Use  annealed  material  only.
+Group3.14;C;(1)   Use  solution annealed  material  only.
+Group3.14;C;(2)   Not  to be  used over  425°C.
+Group3.15;C; (1)  Use  solution annealed  material only.
+Group3.16;C; (1)  Use  solution annealed  material only.
+Group3.17;C; (1)  Use  solution annealed  material only.
